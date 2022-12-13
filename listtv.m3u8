@@ -142,12 +142,6 @@ http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_h
 http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", Fashion Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg", Kaloopy¹⁸⁺ 
-http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg", Kaloopy#¹⁸⁺ 
-http://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/1.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/nuart-logo.jpeg", N u A r T¹⁸⁺ 
-http://vn360x.duckdns.org:9981//stream/channelnumber/345345666?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 ---------------------------------------VTVCAB----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Vtvcab" logo="http://images.zaltv.club/logo/vtvcab1.png", VTVCab1 - Giải Trí
