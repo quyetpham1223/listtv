@@ -129,20 +129,6 @@ http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
 https://q.dl.dropboxusercontent.com/s/53qvp8mzlx741c0/./index.m3u8
 
----------------------------------------GIẢI TRÍ----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.zaltv.club/logo/clarity_4K.png", Clarity 4k
-http://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng", Loupe 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.zaltv.club/logo/fashionhd-4k.png", Fashion 4K
-http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.zaltv.club/logo/fashiontv.png", Fashion
-http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", Fashion Midnight
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
 ---------------------------------------VTVCAB----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Vtvcab" logo="http://images.zaltv.club/logo/vtvcab1.png", VTVCab1 - Giải Trí
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
@@ -606,14 +592,24 @@ https://livevlive.vtvcab.vn/hls/OS_ONSPORT9/sc-gaFEAA/m40_index.m3u8
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAA/m40_index.m3u8
 
 ---------------------------------------SPORT----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Bein 1
-https://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/m3u8/hls_m3u8_Bein-Sport-Max-1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Bein 2
-https://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/m3u8/hls_m3u8_Bein-Sport-Max-2.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Bein Xtra
+#EXTINF:0 type="stream" channelId="-1" group="Sport", Ben Max
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Bein Xtra #
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport", Ben 1
+https://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/m3u8/hls_m3u8_Bein-Sport-Max-1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport", Ben 2
+https://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/m3u8/hls_m3u8_Bein-Sport-Max-2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="https://doo2you.com/icon/TruePremierFootballHD1.png", True Premier League 1
+http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="https://doo2you.com/icon/TruePremierFootballHD2.png", True Premier League 2
+http://w.nasvpn.xyz:8080/live/best/best/16397.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="https://i.ibb.co/Phh63BV/ASSP1.png", Astro SuperSport 1
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="https://i.ibb.co/R0TpBBw/ASSP2.png", Astro SuperSport 2
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="https://i.ibb.co/3yQXb4z/ASSP3.png", Astro SuperSport 3
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 
 #EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="https://www.red-media.ru/wp-content/uploads/2016/01/MATCH-Futbol-1.jpg", Math1HD
 http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/222/index.m3u8
@@ -631,13 +627,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/cctv-5+.png", CCTV5+ HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Eurosport 1HD
-https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Eurosport 2HD
-https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sport", True 1
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sport", True 2
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sport", TNT 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
