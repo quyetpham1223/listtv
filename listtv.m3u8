@@ -2,7 +2,13 @@
 #List này được tổng hợp từ nhiều nguồn khác nhau, mình chọn lọc và chỉnh sữa lại để xem được trực tiếp trên app: SS IPTV có sẵn trên tivi LG or SAMSUNG để phục vụ cá nhân cũng như cộng đồng./.
 #Thanks -> Hoàng Xuân Vinh Phú 
 #Thanks -> Các Pro: Lão Hạc, Coocaa, Vthanh, Chí Vỹ, Sugus ... 
-#THANKS ALL SOURCE FOR SHARE PHIM
+#THANKS ALL SOURCE FOR SHARE
+
+---------------------------------------INFOR----------------------------------------
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
+#EXTM3U
+#EXTINF:-1 group-title="Uplist: 11:00 - 21/12" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Thanks watch !
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 ---------------------------------------MAIN----------------------------------------
 #EXTM3U
@@ -106,14 +112,16 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://stream.sugustv.tk:443/images/SyE1QEORz-YyC76DW6lIY03WWGXv6ovzGYmTZCYIIzpQ_EB3f0UEtBZ-xEwwG35r2CyGuh2-fwJJMtezlfFAG3dC0kgd5Np6XDY7yoBupsPFqrLfdHStHfvV08d2KBwGrPDwpfk6m3IWrF0OqiiwhQ.png", BILLIARD ASIA
 http://gg.gg/nxhbilliards
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/23064/kozoom-tv/thumbh_20220531_190547.jpg", KOZOOM TV
-http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png", BILLIARD EURO
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/23064/kozoom-tv/thumbh_20220531_190547.jpg", BILLIARD KOZOOM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/3c81c571-474a-49bc-ba2b-846537c7f08f/0.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png", BILLIARD TV
+https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/0ea21bf5-73f4-4fff-ac75-e50f7711be12/4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwIyXiLF6p4mZWfK73nepkKVSc8Aww92mTg&usqp=CAU", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png", SuperTennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao", True Tennis
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/sctv16.png", SCTV16 HD #
@@ -717,3 +725,4 @@ http://27.72.63.63:9981/stream/channelid/1868162249?auth=P3Kx1L.shOgoAAeNHf4KSje
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://i.ibb.co/MS363r3/4.webp",Hên xui 
 
 #EXTINF:0 type="stream" channelId="-1" group="Thiếu nhi" logo="https://i.ibb.co/gP7GDwp/5.webp",Hên xui 
+1
